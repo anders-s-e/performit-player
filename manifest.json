@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "id": "nabla",
+      "name": "Nabla",
+      "file": "nabla.performit",
+      "passwordHash": "e2032ef9a6a7375050cdc9f02fedc3e69ccd254ceb22787fcbf9783c62e9e91f",
+      "concerts": [
+        {
+          "id": "concert-2026-05-16-aavf",
+          "name": "2026-05-17: AAVF",
+          "file": "concerts/nabla/concert-2026-05-16-aavf.json"
+        }
+      ]
+    }
+  ]
+}
